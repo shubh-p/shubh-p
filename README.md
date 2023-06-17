@@ -34,7 +34,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-p&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="shubh-p" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-p&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="shubh-p" /></p>
 
 ## 🔗 Socials
 [![linkedin](https://img.shields.io/badge/shubhlaxhporwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhlaxh-porwal-41aa65166/)
