@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-p&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="shubh-p" /></p>
 
-## 🔗 Conect Me
+## 🔗 Socials
 [![linkedin](https://img.shields.io/badge/shubhlaxhporwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhlaxh-porwal-41aa65166/)
 [![Leetcode](https://img.shields.io/badge/-shubhlaxh_porwal-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shubhlaxh_porwal/)
 [![Gmail Badge](https://img.shields.io/badge/-shubhlaxhporwal@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harshkashyap2012002@gmail.com)](mailto:shubhlaxhporwal@gmail.com)
