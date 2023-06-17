@@ -31,3 +31,11 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-p&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="shubh-p" /></p>
+
+## 🔗 Conect Me
+[![linkedin](https://img.shields.io/badge/shubhlaxhporwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhlaxh-porwal-41aa65166/)
+[![Leetcode](https://img.shields.io/badge/-shubhlaxh_porwal-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shubhlaxh_porwal/)
+[![Gmail Badge](https://img.shields.io/badge/-shubhlaxhporwal@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harshkashyap2012002@gmail.com)](mailto:shubhlaxhporwal@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-shubhlaxh.porwal2020@vitstudent.ac.in-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harsh.kashyap2020@vitstudent.ac.in)](mailto:shubhlaxh.porwal2020@vitstudent.ac.in)
