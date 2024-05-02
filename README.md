@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shubhlaxh Porwal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh-p&label=Profile%20views&color=0e75b6&style=flat" alt="shubh-p" /> </p>
 
-- 🔭 I’m currently working on **frontend development**
+- 🔭 I’m currently working as **Full stack developer**
 
-- 🌱 I’m currently learning **blockchain development**
+- 🌱 I’m enthusiastic about **blockchain development**
 
 - 👯 I’m looking to collaborate on **interesting projects**
-
-- 💬 Ask me about **aws,azure**
-
-- 📫 How to reach me **shubhlaxhporwal@gmail.com**
+  
+- 📫 How to reach me **shubhlaxh.work@gmail.com**
 
 ## 🛠 Skills
 
