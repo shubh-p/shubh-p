@@ -37,5 +37,5 @@
 ## 🔗 Socials
 [![linkedin](https://img.shields.io/badge/shubhlaxhporwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhlaxh-porwal-41aa65166/)
 [![Leetcode](https://img.shields.io/badge/-shubhlaxh_porwal-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shubhlaxh_porwal/)
-[![Gmail Badge](https://img.shields.io/badge/-shubhlaxhporwal@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harshkashyap2012002@gmail.com)](mailto:shubhlaxhporwal@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-shubhlaxh.porwal2020@vitstudent.ac.in-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harsh.kashyap2020@vitstudent.ac.in)](mailto:shubhlaxh.porwal2020@vitstudent.ac.in)
+[![Gmail Badge](https://img.shields.io/badge/-shubhlaxh.work@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shubhlaxh.work@gmail.com)](mailto:shubhlaxh.work@gmail.com)
+
