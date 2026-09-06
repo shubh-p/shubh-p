@@ -48,7 +48,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-p&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh-p&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
