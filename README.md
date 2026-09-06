@@ -1,41 +1,73 @@
 <h1 align="center">Hi 👋, I'm Shubhlaxh Porwal</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh-p&label=Profile%20views&color=0e75b6&style=flat" alt="shubh-p" /> </p>
+<h3 align="center">AI Engineer I @ Strategy (formerly MicroStrategy) — building multi-agent AI systems & production RAG pipelines</h3>
 
-- 🔭 I’m currently working as **Full stack developer**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubh-p&label=Profile%20views&color=0e75b6&style=flat" alt="shubh-p" />
+</p>
 
-- 🌱 I’m enthusiastic about **blockchain development**
+- 🔭 Currently building multi-agent AI systems and LLM infrastructure in my day job
+- 🌱 Deep in RAG pipelines, vector search, and multi-provider LLM architecture
+- 💬 Ask me about LangChain, FastAPI, AWS Bedrock, or Kubernetes
+- 📫 Reach me at **shubhlaxh.work@gmail.com**
 
-- 👯 I’m looking to collaborate on **interesting projects**
-  
-- 📫 How to reach me **shubhlaxh.work@gmail.com**
+## 🛠 Tech Stack
 
-## 🛠 Skills
+**AI / ML**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-333333?style=for-the-badge)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-p&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="shubh-p" /></p>
+**Backend**
 
-## 🔗 Socials
-[![linkedin](https://img.shields.io/badge/shubhlaxhporwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhlaxh-porwal-41aa65166/)
-[![Leetcode](https://img.shields.io/badge/-shubhlaxh_porwal-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shubhlaxh_porwal/)
-[![Gmail Badge](https://img.shields.io/badge/-shubhlaxh.work@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shubhlaxh.work@gmail.com)](mailto:shubhlaxh.work@gmail.com)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+## 📌 Featured Projects
+
+- **[GenAI Chatbot](https://github.com/shubh-p/genai_chatbot)** — RAG-powered chatbot answering questions from GitLab's public handbook, 92% retrieval accuracy. FAISS + HuggingFace embeddings + Gemini. [Live demo](https://genai-chatbot.streamlit.app/)
+- **[Multi-Agent Library Assistant](https://github.com/shubh-p/Multi-Agent-Library-Assistants)** — Three cooperating LangGraph agents (coordinator, librarian, publisher) exploring the agent-handoff pattern, built on Azure OpenAI.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-p&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh-p&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubh-p/shubh-p/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubh-p/shubh-p/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shubh-p/shubh-p/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+## 🎓 Certifications
+
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Claude Certified Architect](https://img.shields.io/badge/Claude_Certified_Architect-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/4x_Microsoft_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/shubhlaxh--porwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhlaxh-porwal-41aa65166/)
+[![LeetCode](https://img.shields.io/badge/-shubhlaxh__porwal-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/shubhlaxh_porwal/)
+[![Gmail](https://img.shields.io/badge/-shubhlaxh.work@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shubhlaxh.work@gmail.com)
